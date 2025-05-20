@@ -17,7 +17,3 @@ Este projeto realiza uma análise completa dos dados globais de COVID-19 com foc
 - A taxa de mortalidade foi superior a Y% em alguns países
 - A vacinação acelerada reduziu as mortes após Z meses
 
-## 📁 Organização
-- `data/`: dados crus e tratados
-- `notebooks/`: notebooks por etapa
-- `images/`: gráficos gerados
