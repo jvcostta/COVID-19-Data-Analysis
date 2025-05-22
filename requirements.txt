@@ -4,3 +4,4 @@ seaborn
 jupyterlab
 numpy
 openpyxl
+adjustText
